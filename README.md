@@ -5,5 +5,34 @@
 - 💣  I’m open to collaborate on any iOS-related projects
 - 📫  You can reach me: [beavean@gmail.com](mailto:beavean@gmail.com)
 
-<h3 align="left">Learned tools:</h3>
-<p align="left"> <a href="https://developer.apple.com/xcode/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apple_xcode/apple_xcode-icon.svg" alt="xcode" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
+### Learned tools:
+<p align="left"> 
+    <a href="https://developer.apple.com/xcode/" target="_blank" rel="noreferrer"> 
+        <img src="https://www.vectorlogo.zone/logos/apple_xcode/apple_xcode-icon.svg" alt="xcode" width="40" height="40"/> 
+    </a> 
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> 
+    </a> 
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+    </a> 
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
+    </a> 
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
+    </a> 
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://postman.com" target="_blank" rel="noreferrer"> 
+        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
+    </a> 
+</p>
+
+
+
+
+<a><img align=top src="https://github-readme-streak-stats.herokuapp.com/?user=beavean&theme=dark&date_format=j%20M%5B%20Y%5D&background=0D1117&border=30363D&ring=22C55E&fire=22C55E&sideLabels=22C55E&currStreakLabel=22C55E" alt="beavean" /></a>
