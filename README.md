@@ -1,11 +1,18 @@
-### Greetings! 🖖
-### I'm Anton, iOS Developer from Ukraine 🇺🇦
-- 🍀  I'm mastering my development skills since March 2022 with a passion for creating exceptional user experiences 
-- ⚙️  I’m currently working on my pet project - [The Movie Database](https://github.com/Beavean/The-Movie-Database)
-- 💣  I’m open to collaborate on any iOS-related projects
-- 📫  You can reach me: [beavean@gmail.com](mailto:beavean@gmail.com)
+### Greetings 🖖
+### I'm Anton, iOS Developer from Ukraine 
+- I'm mastering my iOS development skills since March 2022 with a passion for creating exceptional user experiences 
+- Currently working on one of my pet projects: [The Movie Database](https://github.com/Beavean/The-Movie-Database)
+- Staying up-to-date with the latest Swift advancements and industry trends is essential to me
+- I aim to understand the iOS platform, frameworks, and design patterns to create efficient and optimized applications
+- I’m open to collaborate, feel free to reach me: [beavean@gmail.com](mailto:beavean@gmail.com)
 
-### Learned tools:
+
+
+
+
+
+
+<!-- ### Learned tools:
 <p align="left"> 
     <a href="https://developer.apple.com/xcode/" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/apple_xcode/apple_xcode-icon.svg" alt="xcode" width="40" height="40"/> 
@@ -32,7 +39,7 @@
     </a> 
 </p>
 
+ -->
 
 
-
-<a><img align=top src="https://github-readme-streak-stats.herokuapp.com/?user=beavean&theme=dark&date_format=j%20M%5B%20Y%5D&background=0D1117&border=30363D&ring=22C55E&fire=22C55E&sideLabels=22C55E&currStreakLabel=22C55E" alt="beavean" /></a>
+<!-- <a><img align=top src="https://github-readme-streak-stats.herokuapp.com/?user=beavean&theme=dark&date_format=j%20M%5B%20Y%5D&background=0D1117&border=30363D&ring=22C55E&fire=22C55E&sideLabels=22C55E&currStreakLabel=22C55E" alt="beavean" /></a> -->
