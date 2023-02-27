@@ -1,10 +1,10 @@
 ### Greetings 🖖
 ### I'm Anton, iOS Developer from Ukraine 
-- I'm mastering my iOS development skills since March 2022 with a passion for creating exceptional user experiences 
+- I'm mastering my iOS development skills with a passion for creating exceptional user experiences 
 - Currently working on one of my pet projects: [MovieMate](https://github.com/Beavean/MovieMate)
 - Staying up-to-date with the latest Swift advancements and industry trends is essential to me
-- I aim to understand the iOS platform, frameworks, and design patterns to create efficient and optimized applications
-- I’m open to collaborate, feel free to reach me: [beavean@gmail.com](mailto:beavean@gmail.com)
+- I aim to understand the iOS platform, frameworks and design patterns to create efficient and optimized applications
+- I’m open to experiment and collaborate, feel free to reach me: [beavean@gmail.com](mailto:beavean@gmail.com)
 
 
 
